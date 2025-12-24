@@ -26,6 +26,7 @@ for i in range(len(l15)):
       sum = sum + l15[i]
 print(sum)
 #q27 (new commit)
+#q27 (changes after push)
 l16 = [1,2,1]
 l17 = l16.copy()
 l17.reverse()
